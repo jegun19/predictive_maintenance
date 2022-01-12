@@ -1,6 +1,6 @@
 # Time-Series Forecasting using Deep Learning in Predictive Maintenance
 
-![An Engineer Doing Maintenance Works](https://www.pexels.com/photo/man-standing-near-gray-metal-equipment-2760243/)
+![An Engineer Doing Maintenance Works](https://images.pexels.com/photos/2760243/pexels-photo-2760243.jpeg?crop=entropy&cs=srgb&dl=pexels-kateryna-babaieva-2760243.jpg)
 
 ## Introduction
 Predictive maintenance aims to predict whether a machine will fail and needs to be repaired given data produced by various sensors placed in the machine while it is running. 
