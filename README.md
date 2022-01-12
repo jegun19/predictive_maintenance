@@ -1,5 +1,7 @@
 # Time-Series Forecasting using Deep Learning in Predictive Maintenance
 
+![An Engineer Doing Maintenance Works](https://www.pexels.com/photo/man-standing-near-gray-metal-equipment-2760243/)
+
 ## Introduction
 Predictive maintenance aims to predict whether a machine will fail and needs to be repaired given data produced by various sensors placed in the machine while it is running. 
 There are multiple commonly used sensors, such as temperature, voltage, and pressure sensor. The readings produced by these sensors are then sent to a database and then used in further analysis to determine several important requirements to guarantee the machine's performance, such as Mean Time Before Failure (MTBF) and Mean Time To Repair (MTTR). In terms of time-series forecasting, one possible approach is to predict the value of a certain sensor several hours in advance. The predicted values can then be compared with a predetermined threshold based on domain knowledge or be fed into another machine learning algorithm to determine the probability of the machine breaking down. 
