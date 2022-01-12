@@ -1,6 +1,6 @@
 # Time-Series Forecasting using Deep Learning in Predictive Maintenance
 
-![An Engineer Doing Maintenance Works](https://images.pexels.com/photos/2760243/pexels-photo-2760243.jpeg?crop=entropy&cs=srgb&dl=pexels-kateryna-babaieva-2760243.jpg)
+![An Engineer Doing Maintenance Works](https://user-images.githubusercontent.com/44629525/149181551-675ab904-7ea7-402c-8ee9-39a957ed2207.jpg)
 
 ## Introduction
 Predictive maintenance aims to predict whether a machine will fail and needs to be repaired given data produced by various sensors placed in the machine while it is running. 
@@ -11,3 +11,4 @@ The dataset is obtained from [Kaggle](https://www.kaggle.com/arnabbiswas1/micros
 
 ## Approach
 In this repository, a simple deep learning model based on LSTM will be used to predict the value of the chosen feature (e.g. readings from pressure sensor). Further, a failure event from the record will be chosen to check whether the model can correctly predict the chosen sensor readings in the event of failure. 
+
